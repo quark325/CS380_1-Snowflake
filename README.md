@@ -8,4 +8,4 @@ Project 1 : Snowflake 2D Animation
 
 generating animation with snowflake mesh generator
 
-![image](Snowflake.PNG)
+![image](img.PNG)
